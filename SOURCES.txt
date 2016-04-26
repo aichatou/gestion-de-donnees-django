@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+poll_proj_djang/__init__.py
+poll_proj_djang/admin.py
+poll_proj_djang/apps.py
+poll_proj_djang/models.py
+poll_proj_djang/tests.py
+poll_proj_djang/urls.py
+poll_proj_djang/views.py
+poll_proj_djang/migrations/0001_initial.py
+poll_proj_djang/migrations/__init__.py
+proj_django_poll.egg-info/PKG-INFO
+proj_django_poll.egg-info/SOURCES.txt
+proj_django_poll.egg-info/dependency_links.txt
+proj_django_poll.egg-info/top_level.txt
